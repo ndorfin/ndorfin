@@ -1,19 +1,20 @@
 Take a look at my <abbr title="Curriculum vitae">CV</abbr> (or resumé) at [ndorfin.github.io/cv](https://ndorfin.github.io/cv/) or browse my personal site at [tactile.co.za](https://tactile.co.za/)
 
-## Available for short-term and permanent work
+## Available for short- and long-term work
 
 Get in touch if you'd like help with:
 
-- Design Systems work
-- Front-of-the-front-end development work
+- Design Systems, Component Libraries, etc
+- Front-of-the-front-end development
 - Design to web conversion
 - Web Performance improvements
 - Mentoring and training web developers
 - Django, Rails, and other web application framework front-end work
+- Headless CMS and/or static site generators
 
 ## Latest project work
 
-I've wrapped up a contract at Stellenbosch University, working with the [CREST team](https://www0.sun.ac.za/crest/) on their SASTI analytics platform. (Reporting on tertiary education performance in South Africa). SASTI is written in Python/Django. I've been responsible for upgrading the UI aspects using:
+I've just wrapped up a contract at Stellenbosch University, working with the [CREST team](https://www0.sun.ac.za/crest/) on their SASTI analytics platform. (Reporting on tertiary education performance in South Africa). SASTI is written in Python/Django. I've been responsible for upgrading the UI aspects using:
 
 - a bespoke Pattern Library
 - Jinja2
